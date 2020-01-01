@@ -7,6 +7,7 @@ public class RestAPITest {
 	@Test 
 	public void SOAPAPI() {
 		System.out.println ("SOAPAPI");
+		System.out.println ("SOAPAPII");
 
 	}
 	@Test 
